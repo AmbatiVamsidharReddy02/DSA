@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0283-move-zeroes) |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
