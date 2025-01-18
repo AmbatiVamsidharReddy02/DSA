@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0041-first-missing-positive) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0283-move-zeroes) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
