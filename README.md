@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0238-product-of-array-except-self) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0205-isomorphic-strings) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0535-encode-and-decode-tinyurl) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
