@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0392-is-subsequence) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
