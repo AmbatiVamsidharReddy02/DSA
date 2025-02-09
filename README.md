@@ -163,5 +163,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
