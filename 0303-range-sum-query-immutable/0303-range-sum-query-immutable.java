@@ -1,20 +1,20 @@
 class NumArray {
-
-    private int[] prefixSums;
-
+    private int[] prefix;
     public NumArray(int[] nums) {
-        // Initialize the prefix sums array
-        prefixSums = new int[nums.length + 1];
-        
-        // Build the prefix sum array
-        for (int i = 0; i < nums.length; i++) {
-            prefixSums[i + 1] = prefixSums[i] + nums[i];
+        prefix = new int[nums.length+1];
+        prefix[0] = 0;
+
+        for(int i=1;i<=nums.length;i++){
+            prefix[i] = prefix[i-1] + nums[i-1];
         }
     }
     
-    public int sumRange(int i, int j) {
-        // Use prefix sums to calculate the range sum in O(1) time
-        return prefixSums[j + 1] - prefixSums[i];
+    public int sumRange(int left, int right) {
+        // System.out.println(Arrays.toString(prefix));
+        if(left ==0){
+            return prefix[right+1];
+        }
+        return prefix[right+1]-prefix[left];
     }
 }
 
