@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0148-sort-list) |
