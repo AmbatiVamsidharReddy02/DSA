@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0739-daily-temperatures) |
+| [0907-koko-eating-bananas](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0907-koko-eating-bananas](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0907-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |
