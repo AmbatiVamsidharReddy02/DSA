@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0205-isomorphic-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0394-decode-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0437-path-sum-iii) |
 ## Binary Search Tree
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0437-path-sum-iii) |
 ## Merge Sort
 |  |
@@ -322,11 +326,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
