@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
+| [0729-my-calendar-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0729-my-calendar-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0729-my-calendar-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0729-my-calendar-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0907-koko-eating-bananas) |
 ## Stack
 |  |
@@ -370,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
