@@ -1,24 +1,22 @@
 class Solution {
-
     public int[] productExceptSelf(int[] nums) {
-        // use prefix and suffix arrays.
+        int[] result = new int[nums.length];
 
-        int[] prefix = new int[nums.length];
-
-        // for simplicity i have taken suffix but we could just use the
-        // prefix array to calculate the result directly.
-        int[] suffix = new int[nums.length];
-        prefix[0] = 1;
-        suffix[nums.length-1] = 1;
-
-        for (int i = 1; i < nums.length; i++) {
-            prefix[i] = prefix[i - 1] * nums[i-1];
-            suffix[nums.length - i-1] = suffix[nums.length - i] * nums[nums.length - i];
+        // prefix array.
+        result[0] = 1;
+        for(int i=1;i<nums.length;i++){
+            result[i] = result[i-1] * nums[i-1];
         }
-
-        for(int i=0;i<prefix.length;i++){
-            prefix[i] = prefix[i] * suffix[i];
+        System.out.println(Arrays.toString(result));
+        // [1, 2, 3, 4]
+        // [1, 1, 2, 6]
+        // [24 12 4, 1]
+        // [24, 12, 8, 6]
+        int suffix = 1;
+        for(int i=nums.length-1;i>=0;i--){
+            result[i] = result[i] * suffix;
+            suffix = nums[i] * suffix;
         }
-        return prefix;
+        return result;
     }
 }
