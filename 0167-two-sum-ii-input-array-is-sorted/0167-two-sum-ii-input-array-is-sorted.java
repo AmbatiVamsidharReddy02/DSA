@@ -1,21 +1,20 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        int firstPointer = 0;
-        int lastPointer = numbers.length-1;
-        int found = -1;
-        while(firstPointer< lastPointer){
-            if(target - numbers[lastPointer] == numbers[firstPointer]){
-                return new int[] {firstPointer+1, lastPointer+1};
-            }
+        
+        int p2= numbers.length-1;
+        for(int i=0;i<numbers.length && p2>=0;){
+            int sum = numbers[i] + numbers[p2];
 
-            // do BinarySearch on the range of fistPointer & lastPointer-1 to 
-            // search for the value of targer-p2;
-            found = Arrays.binarySearch(numbers, firstPointer, lastPointer, (target-numbers[lastPointer]));
-            if(found>0){
-                break;
+            if(sum==target){
+                return new int[]{i+1, p2+1};
             }
-            lastPointer--;
+            else if(sum>target){
+                p2--;
+            }else{
+                i++;
+            }
         }
-        return new int[] {found+1, lastPointer+1};
+
+        return new int[]{-1,-1};
     }
 }
