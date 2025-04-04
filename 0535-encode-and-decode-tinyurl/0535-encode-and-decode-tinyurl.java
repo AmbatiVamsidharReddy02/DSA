@@ -1,19 +1,18 @@
 public class Codec {
 
-    private int id = 0;
-    private static final String URL = "http://tinyurl.com/";
-    private Map<Integer, String> map = new HashMap<>(); 
-
+    private String baseUrl = "http://tinyurl.com/";
+    Map<Integer,String> encodeMap = new HashMap<>();
+    private int counter = 1;
     // Encodes a URL to a shortened URL.
     public String encode(String longUrl) {
-        map.put(id, longUrl);
-        return (URL + id++);
+        encodeMap.put(counter, longUrl);
+        return baseUrl + "" + counter++;
     }
 
     // Decodes a shortened URL to its original URL.
     public String decode(String shortUrl) {
-        int id = Integer.parseInt(shortUrl.replace(URL, ""));
-        return map.get(id);
+        int key = Integer.valueOf(shortUrl.replace(baseUrl, ""));
+        return encodeMap.get(key);
     }
 }
 
