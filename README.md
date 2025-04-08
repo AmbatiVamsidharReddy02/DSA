@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0907-koko-eating-bananas) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0048-rotate-image) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Linked List
 |  |
 | ------- |
