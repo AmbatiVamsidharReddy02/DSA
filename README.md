@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0739-daily-temperatures) |
+| [0772-construct-quad-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0772-construct-quad-tree) |
 | [0907-koko-eating-bananas](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0907-koko-eating-bananas) |
 | [1063-best-sightseeing-pair](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1063-best-sightseeing-pair) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0772-construct-quad-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0772-construct-quad-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0289-game-of-life) |
+| [0772-construct-quad-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0772-construct-quad-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0772-construct-quad-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
