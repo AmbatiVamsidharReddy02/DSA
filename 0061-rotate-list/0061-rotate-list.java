@@ -9,52 +9,34 @@
  * }
  */
 class Solution {
-
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || head.next == null) {
-            return head;
-        }
+    if (head == null || head.next == null || k == 0) return head;
 
-        int listLen = 0;
-        ListNode temp = head;
-        while (temp != null) {
-            temp = temp.next;
-            listLen++;
-        }
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-
-        int toRotateFromEnd = k % listLen;
-        if(toRotateFromEnd==0){
-            return head;
-        }
-        ListNode fast = dummy.next;
-        ListNode slow = dummy.next;
-
-        for (int j = 0; j < toRotateFromEnd; j++) {
-            fast = fast.next;
-        }
-
-        while (fast.next != null) {
-            fast = fast.next;
-            slow = slow.next;
-        }
-
-        temp = slow;
-        while(temp.next!=null){
-            temp = temp.next;
-        }
-
-        ListNode lastElement = temp;
-
-        // lastElement.next = dummy.next;
-        // dummy.next = lastElement;
-        // slow.next = null;
-
-        
-        dummy.next = slow.next;
-        temp.next = head;
-        slow.next = null;
-        return dummy.next;
+    // Find the length of the linked list
+    ListNode tail = head;
+    int length = 1;
+    while (tail.next != null) {
+        tail = tail.next;
+        length++;
     }
+    
+    // Make it a circular list
+    tail.next = head;
+    
+    // Calculate the break point
+    k = k % length;
+    int stepsToNewHead = length - k;
+    ListNode newTail = tail;
+    
+    // Find the position to break the circle
+    while (stepsToNewHead-- > 0) {
+        newTail = newTail.next;
+    }
+    
+    // Make new head and break the circle
+    ListNode newHead = newTail.next;
+    newTail.next = null;
+
+    return newHead;
+}
 }
