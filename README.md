@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0772-construct-quad-tree) |
 | [0907-koko-eating-bananas](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0907-koko-eating-bananas) |
 | [1063-best-sightseeing-pair](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1063-best-sightseeing-pair) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0739-daily-temperatures) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0739-daily-temperatures) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Matrix
 |  |
 | ------- |
