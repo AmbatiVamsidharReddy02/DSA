@@ -1,55 +1,31 @@
-/*
-// Definition for a Node.
-class Node {
-    public int val;
-    public Node left;
-    public Node right;
-    public Node next;
-
-    public Node() {}
-    
-    public Node(int _val) {
-        val = _val;
-    }
-
-    public Node(int _val, Node _left, Node _right, Node _next) {
-        val = _val;
-        left = _left;
-        right = _right;
-        next = _next;
-    }
-};
-*/
-
 class Solution {
-
     public Node connect(Node root) {
-        if (root == null) {
-            return null;
-        }
+        Node dummyHead = new Node(0);
+        Node current = root;
 
-        Queue<Node> queue = new LinkedList<>();
-        queue.add(root);
-        while (!queue.isEmpty()) {
-            // Iterating Queue
-            Node previousNode = null;
-            int currNodes = queue.size();
-            for (int i = 0; i < currNodes; i++) {
-                Node node = queue.poll();
-
-                if (previousNode != null) {
-                    previousNode.next = node;
+        while (current != null) {
+            Node tail = dummyHead;  // Tail for the next level, starting from the dummy head.
+            
+            // Iterate over nodes in the current level
+            while (current != null) {
+                if (current.left != null) {
+                    tail.next = current.left;
+                    tail = tail.next;
                 }
-                previousNode = node;
-                if (node.left != null) {
-                    queue.add(node.left);
+                
+                if (current.right != null) {
+                    tail.next = current.right;
+                    tail = tail.next;
                 }
-
-                if (node.right != null) {
-                    queue.add(node.right);
-                }
+                
+                current = current.next;
             }
+
+            // Move to the start of the next level
+            current = dummyHead.next;
+            dummyHead.next = null;  // Reset dummy head's next for the next iteration/level.
         }
+
         return root;
     }
 }
