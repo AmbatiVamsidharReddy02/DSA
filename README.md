@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1063-best-sightseeing-pair](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1185-find-in-mountain-array) |
+| [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
+| [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2161-stock-price-fluctuation](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2161-stock-price-fluctuation) |
 ## Divide and Conquer
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0772-construct-quad-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 ## Merge Sort
 |  |
 | ------- |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 ## Iterator
 |  |
 | ------- |
