@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0535-encode-and-decode-tinyurl) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
