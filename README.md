@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0772-construct-quad-tree) |
 | [0817-design-hashmap](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0817-design-hashmap) |
+| [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
 | [0907-koko-eating-bananas](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0907-koko-eating-bananas) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1063-best-sightseeing-pair](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1063-best-sightseeing-pair) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
+| [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0048-rotate-image) |
 | [0227-basic-calculator-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0371-sum-of-two-integers) |
+| [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Linked List
 |  |
@@ -458,5 +461,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
 | [1185-find-in-mountain-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1185-find-in-mountain-array) |
+## Game Theory
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->
