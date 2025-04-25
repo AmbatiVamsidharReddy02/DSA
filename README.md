@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0817-design-hashmap) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2161-stock-price-fluctuation](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2161-stock-price-fluctuation) |
 ## Divide and Conquer
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0392-is-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1063-best-sightseeing-pair) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
 | [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0371-sum-of-two-integers) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Design
 |  |
 | ------- |
