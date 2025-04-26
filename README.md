@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
 | [0907-koko-eating-bananas](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0907-koko-eating-bananas) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1063-best-sightseeing-pair](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1185-find-in-mountain-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0817-design-hashmap) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2161-stock-price-fluctuation](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2161-stock-price-fluctuation) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0731-my-calendar-ii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
