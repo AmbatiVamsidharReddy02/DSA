@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0148-sort-list) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0142-linked-list-cycle-ii) |
