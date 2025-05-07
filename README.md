@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1185-find-in-mountain-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [2195-time-needed-to-buy-tickets](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0289-game-of-life) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2195-time-needed-to-buy-tickets](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2195-time-needed-to-buy-tickets](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
