@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1185-find-in-mountain-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Search
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
@@ -363,11 +366,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2161-stock-price-fluctuation](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2161-stock-price-fluctuation) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Trie
 |  |
 | ------- |
@@ -488,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0731-my-calendar-ii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2161-stock-price-fluctuation](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2161-stock-price-fluctuation) |
 ## Data Stream
 |  |
