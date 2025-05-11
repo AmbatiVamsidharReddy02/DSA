@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1814-jump-game-vi](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1814-jump-game-vi) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0392-is-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1814-jump-game-vi](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1814-jump-game-vi) |
 ## Greedy
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1814-jump-game-vi](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1814-jump-game-vi) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
@@ -370,12 +373,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1814-jump-game-vi](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1814-jump-game-vi) |
 | [2161-stock-price-fluctuation](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2161-stock-price-fluctuation) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1814-jump-game-vi](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1814-jump-game-vi) |
 ## Trie
 |  |
 | ------- |
