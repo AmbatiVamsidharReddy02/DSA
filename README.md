@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1622-max-value-of-equation) |
+| [1762-furthest-building-you-can-reach](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [1814-jump-game-vi](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1814-jump-game-vi) |
 | [2195-time-needed-to-buy-tickets](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
+| [1762-furthest-building-you-can-reach](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1762-furthest-building-you-can-reach) |
 ## String
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1622-max-value-of-equation) |
+| [1762-furthest-building-you-can-reach](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [1814-jump-game-vi](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1814-jump-game-vi) |
 | [2161-stock-price-fluctuation](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2161-stock-price-fluctuation) |
 ## Monotonic Queue
