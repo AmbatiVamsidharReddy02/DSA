@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
 | [0907-koko-eating-bananas](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0907-koko-eating-bananas) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1014-k-closest-points-to-origin](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1063-best-sightseeing-pair) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0772-construct-quad-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1014-k-closest-points-to-origin](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0371-sum-of-two-integers) |
 | [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
+| [1014-k-closest-points-to-origin](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Linked List
 |  |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1622-max-value-of-equation](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1622-max-value-of-equation) |
 | [1762-furthest-building-you-can-reach](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1762-furthest-building-you-can-reach) |
@@ -466,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -537,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
