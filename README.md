@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0772-construct-quad-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0772-construct-quad-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Search Tree
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 ## Merge Sort
 |  |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 ## Iterator
