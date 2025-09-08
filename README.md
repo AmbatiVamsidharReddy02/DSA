@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0456-132-pattern](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0456-132-pattern) |
 | [0525-contiguous-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0525-contiguous-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0772-construct-quad-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
@@ -392,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
@@ -415,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 ## Tree
 |  |
@@ -484,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
