@@ -1,29 +1,26 @@
 class Solution {
-
-    public void sortColors(int[] a) {
-        int pRed = 0;
-        int pWhite = 0;
-        int pBlue = a.length-1;
-
-        while(pWhite<=pBlue){
-            if(a[pWhite]==0){
-                swap(a, pWhite, pRed);
-                pWhite++;
-                pRed++;
-            }else if(a[pWhite]==1){
-                pWhite++;
-            }else{
-                swap(a, pBlue, pWhite);
-                pBlue--;
-            }
+    public void sortColors(int[] nums) {
+        // using extra space with o(n) time.
+        int zeroes = 0;
+        int ones = 0;
+        int twos = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 0)
+                zeroes++;
+            if (nums[i] == 1)
+                ones++;
+            if (nums[i] == 2)
+                twos++;
         }
 
-
-    }
-
-    public void swap(int[] a, int i, int j) {
-        int temp = a[j];
-        a[j] = a[i];
-        a[i] = temp;
+        for (int i = 0; i < zeroes; i++) {
+            nums[i] = 0;
+        }
+        for (int i = 0; i < ones; i++) {
+            nums[i + zeroes] = 1;
+        }
+        for (int i = 0; i < twos; i++) {
+            nums[i + zeroes + ones] = 2;
+        }
     }
 }
