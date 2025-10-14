@@ -6,8 +6,8 @@ class Solution {
             if (minValue > nums[i]) {
                 minValue = nums[i];
             }
-            if (nums[i] - minValue > 0) {
-                max = Math.max(nums[i] - minValue, max);
+            if (nums[i] - minValue > max) {
+                max = nums[i] - minValue;
             }
         }
         return max;
