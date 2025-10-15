@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0118-pascals-triangle) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0148-sort-list) |
