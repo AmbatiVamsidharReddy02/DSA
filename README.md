@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0371-sum-of-two-integers) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0731-my-calendar-ii) |
