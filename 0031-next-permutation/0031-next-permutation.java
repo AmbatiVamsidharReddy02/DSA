@@ -9,9 +9,15 @@ class Solution {
                 break;
             }
         }
-        System.out.println(index);
         if (index == -1) {
-            Arrays.sort(nums);
+             int left = 0, right = nums.length - 1;
+            while (left <= right) {
+                int temp = nums[left];
+                nums[left] = nums[right];
+                nums[right] = temp;
+                left++;
+                right--;
+            }
         } else {
             // swap the index elment with the first highest number found from the end.
             for (int i = nums.length - 1; i > index; i--) {
