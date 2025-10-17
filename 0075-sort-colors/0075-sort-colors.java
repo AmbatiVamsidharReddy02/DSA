@@ -1,18 +1,25 @@
 class Solution {
     public void sortColors(int[] nums) {
-        // using dutch national flag algorithm
-
-        // take three pointers low, mid, high
-        // move mid as the traversal pointer till mid<=high
-        // scenarios -
-        // if mid == 0 then swap the mid, low element and increment both.
-        // if mid == 1 then continue forward.
-        // if the mid == 2 then swap the high, mid elements and then decrement only high
-        // value.
+        /* we use three pointers
+        low, mid, high
+        we use low and high for the zeres and 2s tracking. 
+        
+        we use mid to travel thru the array.
+        instances of mid are
+        0 -> swap with nums[low] and increment low++; mid++;
+        we know for sure that low will give us something like 1 cause we are sorting from low
+        and we keep on sorting the array to the left of low and right of low will be 1s which are mids values 1.
+        
+        1 -> mid++;
+        2 -> swap with nums[high] high--; // we wont do mid++ since we dont know what the
+        high provides.
+        * */
 
         int low = 0, mid = 0, high = nums.length - 1;
+
         while (mid <= high) {
             if (nums[mid] == 0) {
+                // swap with low
                 swap(nums, low, mid);
                 low++;
                 mid++;
@@ -25,7 +32,7 @@ class Solution {
         }
     }
 
-    public static void swap(int[] nums, int i, int j) {
+    public void swap(int[] nums, int i, int j) {
         int temp = nums[i];
         nums[i] = nums[j];
         nums[j] = temp;
