@@ -11,7 +11,7 @@ class Solution {
                 low++;high--;
             }
         }
-        System.out.println(Arrays.deepToString(matrix));
+        // System.out.println(Arrays.deepToString(matrix));
         // 2. transpose the matrix
         for(int i=0;i<matrix.length;i++){
             for(int j=i+1;j< matrix.length;j++){
@@ -20,6 +20,6 @@ class Solution {
                 matrix[j][i] = temp;
             }
         }
-        System.out.println(Arrays.deepToString(matrix));
+        // System.out.println(Arrays.deepToString(matrix));
     }
 }
