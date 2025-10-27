@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0289-game-of-life) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0778-reorganize-string) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0371-sum-of-two-integers) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0729-my-calendar-i) |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0371-sum-of-two-integers) |
 | [0873-guess-the-word](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0873-guess-the-word) |
 | [1014-k-closest-points-to-origin](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/1014-k-closest-points-to-origin) |
