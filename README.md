@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0456-132-pattern](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0937-online-stock-span) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AmbatiVamsidharReddy02/DSA/tree/master/0937-online-stock-span) |
